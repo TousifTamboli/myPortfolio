@@ -78,3 +78,7 @@
     cursor: pointer;
     transition: all 0.3 ease;
 }
+
+.contact-btn:hover{
+    color: #a993fe;
+}
