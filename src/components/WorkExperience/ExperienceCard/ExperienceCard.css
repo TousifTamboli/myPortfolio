@@ -53,5 +53,10 @@
     .work-experience-card ul li{
         font-size: 0.75rem;
     }
+
+    .experience-container {
+        margin: 4rem 1rem;
+        position: relative;
+    }
 }
 
