@@ -38,3 +38,25 @@ export const SKILLS = [
     },
     
 ];
+
+export const WORK_EXPERIENCE = [
+    {
+        title: "Integrated Developer intern",
+        date : "June 2024 - Present",
+        resposibilities: [
+            "Working on integrating RESTful APIs with MSSQL and MySQL databases to develop scalable applications",
+            "Streamlined the backend processes, resulting in a 30% improvement in data retrieval times.",
+            "Contributed to the development of enterprise-level applications, focusing on security and performance.",
+            "Successfully led a project that reduced server response time by 20% through optimized query handling and data management",
+        ],
+    },
+    {
+        title: "Web Developer intern",
+        date : "Aug 2024 - Sept 2024",
+        resposibilities: [
+            "Developed and deployed multiple websites using React.js, MongoDB, and Node.js, enhancing the responsiveness and user experience",
+            "Collaborated with a cross-functional team to design and implement new features, resulting in a 15% increase in site engagement",
+            "Led the optimization of website performance, reducing load times by 25%.",
+        ],
+    }
+];
