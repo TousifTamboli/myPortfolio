@@ -79,6 +79,12 @@
   border: 1.5px solid #6852ba;
 }
 
+.hero-img .tech-div .tech-icon img{
+    width: 3rem;
+    margin-bottom: 11px;
+    
+}
+
 .tech-icon img {
   width: 3rem;
   height: auto;
@@ -185,5 +191,10 @@
 
     .tech-icon img{
         width: 2rem;
+    }
+
+    .hero-img .tech-div .tech-icon img {
+        width: 2rem;
+        margin-bottom: 11px;
     }
 }

@@ -14,13 +14,10 @@ const Hero = () => {
 
       <div className="hero-img">
         <div>
-          {/* <div className="tect-icon">
-            <img src="./assets/images/img10.jpg" alt="heroimage"></img>
-          </div> */}
           <img src="./assets/images/img11.jpg" alt="heroimage"></img>
         </div>
 
-        <div>
+        <div className="tech-div">
           <div className="tech-icon">
             <img src="./assets/images/img02.png" alt="tech icon"></img>
           </div>
