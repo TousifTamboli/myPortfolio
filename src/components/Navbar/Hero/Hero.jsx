@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <section className="hero-container">
       <div className="hero-content">
-        <h2>Building digital Experiences that Inspires</h2>
+        <h2>Learning something everyday!</h2>
         <p>
           Dynamic Full Stack Developer and GDSC Management Lead with expertise
           in React.js, Node.js, and scalable web applications.

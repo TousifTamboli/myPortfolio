@@ -9,7 +9,7 @@ const MobileNav = ({isOpen, toggleMenu}) => {
             <div
             className='mobile-menu-container'>
                 <img
-                className='logo' src='./assets/images/logo.svg' alt='logo'>
+                className='logo' src='./assets/images/logo.png' alt='logo'>
 
                 </img>
                 <ul>
